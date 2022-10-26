@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Circle?>
+
+<Pane fx:id="pane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1">
+   <children>         
+      <Circle fx:id="circle1" centerX="100.0" centerY="500.0" fill="#1f93ff47" radius="66.0" stroke="BLACK" strokeType="INSIDE" styleClass="circle" />
+      <Circle fx:id="circle2" centerX="700.0" centerY="200.0" fill="#2197ff4e" layoutX="15.0" layoutY="15.0" radius="75.0" stroke="BLACK" strokeType="INSIDE" styleClass="circle" />
+   </children>
+</Pane>
