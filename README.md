@@ -1,4 +1,5 @@
 # Roadmap-based flocking behaviors
+Both the code's documentation and some videos (in the `Media` folder) are provided to better describe the system.
 ## Goal
 The goal of this project is to simulate the boids behaviors to do the main tasks roadmap-based which are:
 - homing rule
@@ -15,6 +16,3 @@ The tasks mentioned above are then simulated with the following 3 different maps
 <p align="center">
 <img height="200" src="./maps.png">
 </p>
-
-## Utils
-Both the code's documentation and some videos (in the `Media` folder) are provided to better describe the system.
