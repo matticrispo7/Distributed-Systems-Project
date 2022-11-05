@@ -17,3 +17,6 @@ The tasks mentioned above are then simulated with the following 3 different maps
 <p align="center">
 <img height="200" src="./maps.png">
 </p>
+
+## Demo
+<video src='./Media/Roadmap-GoalSearching-100.mov' width=180/>
