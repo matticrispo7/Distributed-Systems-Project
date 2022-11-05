@@ -1,5 +1,6 @@
 # Roadmap-based flocking behaviors
 Both the code's documentation and some videos (in the `Media` folder) are provided to better describe the system.
+The code is also commented with JavaDOC.
 ## Goal
 The goal of this project is to simulate the boids behaviors to do the main tasks roadmap-based which are:
 - homing rule
