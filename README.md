@@ -1,4 +1,5 @@
 # Roadmap-based flocking behaviors
+This is a master's degree project of Distributed Systems developed in 2022. <br />
 Both the code's documentation and some videos (in the `Media` folder) are provided to better describe the system.
 The code is also commented with JavaDOC.
 ## Goal
